@@ -1,0 +1,10 @@
+[ {
+  "trainId" : "bacs",
+  "trainNo" : "12345",
+  "seats" : [ [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 0, 1 ], [ 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+  "stationTimes" : {
+    "Banglore" : "13:50:00",
+    "Pune" : "21:30:00"
+  },
+  "stations" : [ "banglore", "pune" ]
+} ]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Praveen",
+    "password": "hi",
+    "hashedPassword": "123dfs4r4",
+    "ticketsBooked": [
+      {
+        "ticketId": "bacs-12345-1-4-12345",
+        "seatsBooked": null,
+        "userId": "12345",
+        "source": "banglore",
+        "destination": "pune",
+        "trainId": "bacs",
+        "status": "active"
+      }
+    ],
+    "userId": "12345"
+  },
+  {
+    "name": "bhavani",
+    "password": "praveen",
+    "hashedPassword": "$2a$10$/pj5ZT22A60.NLTom.3Vc.fm4942oYNWnCdDIK6dGER.v6wY8Eid.",
+    "ticketsBooked": [
+      {
+        "ticketId": "919c23b4-5b4a-47d3-93ec-60eb376764be",
+        "seatsBooked": [
+          [
+            4,
+            4
+          ]
+        ],
+        "userId": "7d25c20a-3c43-4342-931a-d880302901b3",
+        "source": "banglore",
+        "destination": "pune",
+        "trainId": "bacs",
+        "status": "canceled"
+      },
+      {
+        "ticketId": "f433c2b1-9cf1-4866-8094-23cfb34199b4",
+        "seatsBooked": [
+          [
+            4,
+            3
+          ]
+        ],
+        "userId": "7d25c20a-3c43-4342-931a-d880302901b3",
+        "source": "banglore",
+        "destination": "pune",
+        "trainId": "bacs",
+        "status": "canceled"
+      }
+    ],
+    "userId": "7b90add5-97fc-4dd5-ad61-7b4d69418463"
+  },
+  {
+    "name": "girish",
+    "password": "123",
+    "hashedPassword": "$2a$10$pVP0ifjLsR78aCFv9aJIauxpM01WdA0qazEq/glW5X/o2730iTHuC",
+    "ticketsBooked": [
+      {
+        "ticketId": "edc23a30-02b1-4979-83cd-35482d818a23",
+        "seatsBooked": [
+          [
+            4,
+            4
+          ]
+        ],
+        "userId": "4168b515-a09c-4c48-b207-3ce176e1b08b",
+        "source": "banglore",
+        "destination": "pune",
+        "trainId": "bacs",
+        "status": "canceled"
+      }
+    ],
+    "userId": "854c1bd5-2d2c-48fa-8ea6-e71c6c4db3ab"
+  }
+]
